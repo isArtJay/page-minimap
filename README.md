@@ -2,7 +2,7 @@
 
 网页的迷你地图。
 
-[在线Demo](/Demo/page-minimap)
+[在线Demo](<https://www.lien.run/Demo/page-minimap/>)
 
 # 用法示例
 
