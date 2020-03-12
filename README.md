@@ -4,13 +4,19 @@
 
 # 用法示例
 
-在您的 HTML 页面中添加 canvas 标签：
+引入 page-minimap-0.3.12.min.js ：
+
+```javascript
+<script src="page-minimap-0.3.12.min.js"></script>
+```
+
+在你的 HTML 页面中添加 canvas 标签：
 
 ```html
 <canvas id='map'></canvas>
 ```
 
-固定它在屏幕中的位置：
+修改一下它在屏幕中的位置：
 
 ```css
 #map {
