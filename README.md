@@ -2,8 +2,6 @@
 
 网页的迷你地图。
 
-[在线Demo](<https://www.lien.run/Project/page-minimap/>)
-
 # 用法示例
 
 引入 page-minimap.js ：
