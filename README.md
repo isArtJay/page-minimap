@@ -6,7 +6,7 @@
 
 # 用法示例
 
-引入 page-minimap-0.3.12.min.js ：
+引入 page-minimap.js ：
 
 ```javascript
 <script src="page-minimap-0.3.12.min.js"></script>
